@@ -1,6 +1,3 @@
 theme: jekyll-theme-tactile
 
-analytics:
-           provider: "google-universal"
-      google:
-      tracking_id:  UG-L1JJGPBXMP
+
